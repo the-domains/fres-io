@@ -1,7 +1,7 @@
-name: fres.io
+name: Fres.io
 favicon: null
-layout_spectrum: 0.8579747993499041
-typography_spectrum: 0.3873811410740018
+layout_spectrum: 0.83485
+typography_spectrum: 0.67062
 title: "Amp'd in Swag'd out"
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#00bbf9'
+    - '#008ca6'
+    - '#001a33'
+    - '#004553'
   brandStrength: 0.6050946323666722
   lightness: 0.8302442298736423
   saturation: 0.22621495719067752
